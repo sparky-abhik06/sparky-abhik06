@@ -34,7 +34,7 @@ Christ (Deemed to be University)\
 Lavasa, Pune **–** INDIA
 *   **(2018-2021)**
     *   **BSc in Mathematics**\
-Presidency University (Formerly known as *Hindu College*)\
+Presidency University (Formerly known as *"Hindu College"*)\
 College Street, Kolkata **–** INDIA
 *   **2018**
     *   **Higher Secondary**\
