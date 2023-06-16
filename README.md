@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparky-abhik06&label=Profile%20views&color=0e75b6&style=flat" alt="sparky-abhik06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparky-abhik06" alt="sparky-abhik06" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sparky12ad" target="blank"><img src="https://img.shields.io/twitter/follow/sparky12ad?logo=twitter&style=for-the-badge" alt="sparky12ad" /></a> </p>
 
 - 🔭 I’m currently working on [Billing Management System](https://github.com/sparky-abhik06/Billing-System)
