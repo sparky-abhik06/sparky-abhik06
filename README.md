@@ -22,11 +22,9 @@
 <a href="https://linkedin.com/in/abhik-dey-37082a244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhik-dey-37082a244" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sparky-hatake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sparky-hatake" height="30" width="40" /></a>
 <a href="https://kaggle.com/sparky06ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sparky06ad" height="30" width="40" /></a>
-<a href="https://instagram.com/sparky_abhik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sparky_abhik" height="30" width="40" /></a>
 <a href="https://medium.com/@abhikdey06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhikdey06" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhik_dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhik_dey" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sparky_abhik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sparky_abhik" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@abhik81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhik81" height="30" width="40" /></a>
 <a href="https://discord.gg/u8mkgYEmSJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="u8mkgYEmSJ" height="30" width="40" /></a>
 </p>
 
