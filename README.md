@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhik Dey</h1>
 <h3 align="center">A Passionate and Hardworking Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparky-abhik06&label=Profile%20views&color=0e75b6&style=flat" alt="sparky-abhik06" /> </p>
 
