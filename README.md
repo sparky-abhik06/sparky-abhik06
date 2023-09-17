@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [NeurIPS 2023 - Machine Unlearning](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)
 
-- 📝 I regularly write articles on [@abhikdey06](@abhikdey06)
+- 📝 I regularly write articles on [@Medium](https://medium.com/@abhikdey06)
 
 - 💬 Ask me about **MySQL, Python, Machine learning, Computer Vision, Cloud Computing, Graph Theory.**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to sparky06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to sparky06" height="30" width="40" /></a>
+<a href="https://dev.to/sparky06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to sparky06" height="30" width="40" /></a>
 <a href="https://twitter.com/sparky12ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sparky12ad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhik-dey-sparky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhik-dey-sparky" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20096901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20096901" height="30" width="40" /></a>
