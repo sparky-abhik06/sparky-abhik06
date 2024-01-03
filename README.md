@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my final year research project on **Object Detection using Few-Shot Learning.**
 
-- 🌱 I’m currently learning **Deep Learning, Hadoop, and NLP**
+- 🌱 I’m currently learning **Deep Learning and NLP**
 
 - 👯 I’m looking to collaborate on [NeurIPS 2023 - Machine Unlearning](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MySQL, Python, Machine learning, Computer Vision, Cloud Computing, Graph Theory.**
 
-- 📫 How to reach me **ad.sparky12@gmail.com**
+- 📫 How to reach me **ad.sparky06@gmail.com**
 
 - ⚡ Fun fact **Oops(Object Oriented Programmings)**
 
