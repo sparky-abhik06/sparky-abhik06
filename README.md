@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MySQL, Python, Machine learning, Computer Vision, Cloud Computing, Graph Theory.**
 
-- 📫 How to reach me **ad.sparky06@gmail.com**
+- 📫 How to reach me **abhikdey.official@gmail.com**
 
 - ⚡ Fun fact **Oops(Object Oriented Programmings)**
 
