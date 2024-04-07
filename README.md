@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **Deep Learning and NLP**
 
-- 👯 I’m looking to collaborate on [NeurIPS 2023 - Machine Unlearning](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning)
-
 - 📝 I regularly write articles on [@Medium](https://medium.com/@abhikdey06)
 
-- 💬 Ask me about **MySQL, Python, Machine learning, Computer Vision, Cloud Computing, Graph Theory.**
+- 💬 Ask me about **Python, Machine learning, Deep Learning, NLP, Computer Vision, Cloud Computing.**
 
 - 📫 How to reach me **abhikdey.official@gmail.com**
 
