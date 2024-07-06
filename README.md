@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhik</h1>
 <h3 align="center">A passionate and smart-working data scientist from India with expertise in NLP, generative AI, and computer vision. I thrive on solving real-world problems, and I'm constantly expanding my knowledge through research.</h3>
+
+----
+
 <img align="right" alt="Coding" width="400" src="./worriedmonk.gif">
 
 
