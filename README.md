@@ -42,7 +42,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./Languages/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./Languages/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="./Languages/postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./Languages/git.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="./Languages/html.svg" alt="html" width="40" height="40"/> </a>
 </p>
 
@@ -52,6 +51,7 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/aws.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/azure.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/googlecloud.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./Languages/git.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/docker.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/linux.svg" alt="linux" width="40" height="40"/> </a>
@@ -63,7 +63,6 @@
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/anaconda.svg" alt="anaconda" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/microsoftexcel.svg" alt="excel" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-in/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/powerbi.svg" alt="powerbi" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/tableau.svg" alt="tableau" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/scikit-learn.svg" alt="scikit-learn" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/opencv.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="./Tools & Technologies/keras.svg" alt="keras" width="40" height="40"/> </a>
